@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#title {
+    text-align: center;
+}
+
+#img-div {
+    text-align: center;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+}
+
+#img-caption {
+    font-style: italic;
+}
+
+a {
+    display: block;
+    text-align: center;
+}
